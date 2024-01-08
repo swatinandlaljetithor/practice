@@ -1,0 +1,4 @@
+Rules for .gitignore are:
+1. create .gitignore file in present working directory 
+2. add file name in .gitignore file which you want to ignore.
+
